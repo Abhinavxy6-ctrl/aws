@@ -1,0 +1,21 @@
+datetime,state,city,lat,lon,anomaly_score,is_anomaly,severity,dominant_sensor,month,hour
+2019-08-10 03:00:00,Gujarat,Rajkot,22.3039,70.8022,162.20987,1,Critical,wind_dir_cos,8,3
+2019-08-10 05:00:00,Gujarat,Rajkot,22.3039,70.8022,151.56909,1,Critical,wind_dir_cos,8,5
+2019-08-10 04:00:00,Gujarat,Rajkot,22.3039,70.8022,138.29051,1,Critical,wind_dir_cos,8,4
+2019-08-10 02:00:00,Gujarat,Rajkot,22.3039,70.8022,119.37585,1,Critical,wind_dir_cos,8,2
+2017-07-22 07:00:00,Gujarat,Ahmedabad,23.0225,72.5714,61.144573,1,Critical,wind_dir_cos,7,7
+2022-05-19 04:00:00,Karnataka,Mangaluru,12.9141,74.856,60.82067,1,Critical,wind_dir_cos,5,4
+2019-06-02 18:00:00,West_Bengal,Midnapore,22.426,87.318,58.87295,1,Critical,wind_dir_cos,6,18
+2021-08-03 07:00:00,Rajasthan,Kota,25.2138,75.8648,55.20843,1,Critical,wind_dir_cos,8,7
+2023-12-18 06:00:00,Tamil_Nadu,Tirunelveli,8.7139,77.7567,52.69694,1,Critical,wind_dir_cos,12,6
+2025-05-30 11:00:00,Meghalaya,Cherrapunji,25.28,91.727,52.299892,1,Critical,wind_dir_cos,5,11
+2022-05-19 05:00:00,Karnataka,Mangaluru,12.9141,74.856,51.228638,1,Critical,wind_dir_cos,5,5
+2018-06-25 08:00:00,Dadra_Nagar_Haveli,Silvassa,20.2742,73.0169,48.250713,1,Critical,wind_dir_cos,6,8
+2018-06-08 14:00:00,Goa,Panaji,15.4989,73.8278,43.81127,1,Critical,wind_dir_cos,6,14
+2024-07-03 10:00:00,Uttarakhand,Almora,29.5971,79.6591,43.17617,1,Critical,wind_dir_cos,7,10
+2017-07-22 08:00:00,Gujarat,Ahmedabad,23.0225,72.5714,40.940395,1,Critical,wind_dir_cos,7,8
+2019-09-05 17:00:00,Odisha,Berhampur,19.315,84.7941,40.79187,1,Critical,wind_dir_cos,9,17
+2023-12-18 07:00:00,Tamil_Nadu,Tirunelveli,8.7139,77.7567,39.85214,1,Critical,wind_dir_cos,12,7
+2018-09-22 08:00:00,Maharashtra,Ratnagiri,16.9902,73.312,39.653923,1,Critical,wind_dir_cos,9,8
+2017-07-22 06:00:00,Gujarat,Ahmedabad,23.0225,72.5714,39.257504,1,Critical,wind_dir_cos,7,6
+2024-07-29 09:00:00,Gujarat,Anand,22.5645,72.9289,37.614204,1,Critical,wind_dir_cos,7,9

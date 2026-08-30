@@ -1,0 +1,13 @@
+feature,mean_error,contribution_percent
+pressure_trend,0.3494559,18.002472
+wind_dir_cos,0.26977974,13.897899
+cloud_cover_pct,0.24223852,12.479093
+wind_speed_ms,0.20590173,10.607176
+wind_dir_sin,0.18535256,9.548571
+temperature_C,0.17029934,8.773093
+pressure_hPa,0.13341372,6.8729043
+precip_mm,0.09589206,4.9399486
+humidity_pct,0.08966779,4.6193013
+solar_radiation_Wm2,0.08735557,4.5001855
+dew_point_C,0.08128727,4.1875725
+et0_mm,0.030510783,1.5717851
