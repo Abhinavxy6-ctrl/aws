@@ -6,3 +6,4 @@ numpy
 requests
 torch
 joblib
+scikit-learn
