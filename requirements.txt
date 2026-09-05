@@ -1,11 +1,8 @@
-plotly
-streamlit-autorefresh
-torch
-joblib
-sklearn
 streamlit
+streamlit-autorefresh
 pandas
+plotly
 numpy
 requests
-pathlib
-datetime
+torch
+joblib
