@@ -3,3 +3,9 @@ streamlit-autorefresh
 torch
 joblib
 sklearn
+streamlit
+pandas
+numpy
+requests
+pathlib
+datetime
